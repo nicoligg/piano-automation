@@ -1,5 +1,7 @@
 # Piano Automação
 
+![Badge Complete](https://img.shields.io/badge/status-complete-blue)
+
 Desafio da equipe de automação de setembro: Piano
 
 O projeto é um piano virtual desenvolvido pelo time de automação durante o estágio na Mosaic Fertilizantes no Brasil. Ele oferece uma maneira interativa e divertida de tocar sons usando o teclado do computador. Este piano é uma implementação simples, mas eficaz, de um piano virtual que permite aos usuários reproduzir diversos sons.
