@@ -1,5 +1,6 @@
 # piano-automation
 September Automation Team Challenge: Piano
+
 ![Badge Complete](https://img.shields.io/badge/status-complete-blue)
 ![Badge Release Date](https://img.shields.io/badge/release%20date-september-red)
 
