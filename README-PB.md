@@ -1,9 +1,11 @@
 # Piano Automação
 
+
+
 O projeto é um piano virtual desenvolvido pelo time de automação durante o estágio na Mosaic Fertilizantes no Brasil. Ele oferece uma maneira interativa e divertida de tocar sons usando o teclado do computador. Este piano é uma implementação simples, mas eficaz, de um piano virtual que permite aos usuários reproduzir diversos sons.
 
 Funcionalidades:
-O AutoPiano possui as seguintes funcionalidades:
+O Piano possui as seguintes funcionalidades:
 
 1. Teclas Musicais Interativas: O piano virtual apresenta uma série de teclas musicais, cada uma representando um som. Os usuários podem clicar nas teclas com o mouse ou usar o teclado do computador para tocar notas musicais.
 
