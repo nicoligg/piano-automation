@@ -1,5 +1,7 @@
 # piano-automation
 September Automation Team Challenge: Piano
+![Badge Complete](https://img.shields.io/badge/status-complete-blue)
+![Badge Release Date](https://img.shields.io/badge/release%20date-september-red)
 
 The project is a virtual piano developed by the automation team during an internship at Mosaic Fertilizers in Brazil. It offers a fun, interactive way to play sounds using your computer keyboard. This piano is a simple yet effective implementation of a virtual piano that allows users to play various sounds.
 
