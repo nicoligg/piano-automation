@@ -9,7 +9,7 @@ September Automation Team Challenge: Piano
 The project is a virtual piano developed by the automation team during an internship at Mosaic Fertilizers in Brazil. It offers a fun, interactive way to play sounds using your computer keyboard. This piano is a simple yet effective implementation of a virtual piano that allows users to play various sounds.
 
 # *Functionalities:*
-AutoPiano has the following features:
+Piano has the following features:
 
 1. *Interactive Musical Keys:* The virtual piano features a series of musical keys, each representing a sound. Users can click keys with the mouse or use the computer keyboard to play musical notes.
 
